@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zimtyler
-- 👀 I’m interested in learning everything I can about data analytics
+- 👀 I’m interested in learning everything I can about data science
 - 🌱 I’m currently learning sql and python
 - Looking for someone to show me the ropes
 - 📫 How to reach me: zimtyler@gmail.com

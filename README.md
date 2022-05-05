@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning everything I can about data engineering and machine learning
 - 🌱 currently collecting certifications like there's a shortage looming
 - I'll be migrating my projects to github when I think they're good enough
-- Looking for my entry into the field
 - 📫 How to reach me: zimtyler@gmail.com
 
 <!---

@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Tyler
-- 👀 I’m interested in learning everything I can about data engineering and machine learning
-- 🌱 currently collecting certifications like there's a shortage looming
-- I'll be migrating my projects to github when I think they're good enough
+- 👀 Discovering the utility of Python and SQL has me drinking the data coolaid.
+- 🌱 I'm currently collecting data analytics and data engineering certifications as if they actually matter
+- ✨ Automation, because I'd rather not.
+
 - 📫 How to reach me: zimtyler@gmail.com
 
 <!---

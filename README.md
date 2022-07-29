@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyler
-- 👀 Python,SQL, and DAX
+- 👀 Python, SQL, DAX, Google Cloud
 - 🌱 Probably studying
 - ✨ Automation, because I'd rather not.
 

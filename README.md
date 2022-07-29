@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler
-- 👀 Discovering the utility of Python and SQL has me drinking the data coolaid.
-- 🌱 I'm currently collecting data analytics and data engineering certifications as if they actually matter
+- 👀 Python,SQL, and DAX
+- 🌱 Probably studying
 - ✨ Automation, because I'd rather not.
 
 - 📫 How to reach me: zimtyler@gmail.com

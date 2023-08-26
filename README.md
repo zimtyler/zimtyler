@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Tyler
-- 👀 Python, SQL, DAX, Google Cloud
-- 🌱 Probably studying
-- ✨ Automation, because I'd rather not.
+## Hi. I'm Tyler.
+I'm a Digital Analyst by title, but I primarily work on engineering custom and adhoc analytics solutions.
+Mostly using Python, DAX, and SQL in the Microsoft Azure/Power BI ecosystem.
 
-- 📫 How to reach me: zimtyler@gmail.com
+I also have a working familiarity with Linux OS, AWS tools (S3, Lambda, SageMaker), BigQuery, and Databricks.
 
-<!---
-zimtyler/zimtyler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current Project: Stanford Encyclopedia of Philosophy text -> QA JSON -> finetuning LLM
+Current interests: ML in Databricks
+
+Dashbords > PDF > Power Point
+## Polars > Pandas
+

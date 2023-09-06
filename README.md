@@ -7,7 +7,7 @@ Working familiarity with Linux OS, AWS tools (S3, Lambda, SageMaker), BigQuery, 
 
 Current Project: Stanford Encyclopedia of Philosophy text -> QA JSON -> finetuning LLM
 
-Current interests: ML in Databricks
+Current interests: ML in Spark, Scala
 
 Dashbords > Static Reports
 ## Polars > Pandas

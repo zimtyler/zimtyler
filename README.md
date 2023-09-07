@@ -9,7 +9,7 @@ I'm a Digital Analyst by title, but my daily tasks touch most data stages:
 * Explaining to clients that averaging a column containing percentages isn't usually the best move
 
 
-Day to Day : Python, DAX, and SQL in the Microsoft Azure/Power BI ecosystem.
+Day to Day : Python, DAX, Power Query, and SQL in the Microsoft Azure/Power BI ecosystem.
 
 Working familiarity with Linux OS, AWS tools (S3, Lambda, SageMaker), BigQuery, and Databricks.
 

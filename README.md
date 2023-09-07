@@ -1,11 +1,19 @@
 ## Hi. I'm Tyler.
-I'm a Digital Analyst by title, but I primarily work on engineering custom and adhoc analytics solutions.
+I'm a Digital Analyst by title, but my daily tasks touch most data stages:
+* Internal and External Data ETL,
+* Data Modeling
+* Engineering custom solutions for high priority adhoc requests
+* Using ML algos to generate reasonable KPI targets/comparison groups
+* Dahsboarding
+* Exporting to excel - so satisfying \s
+* Explaining to clients that averaging a column containing percentages isn't usually the best move
+
 
 Day to Day : Python, DAX, and SQL in the Microsoft Azure/Power BI ecosystem.
 
 Working familiarity with Linux OS, AWS tools (S3, Lambda, SageMaker), BigQuery, and Databricks.
 
-Current Project: Stanford Encyclopedia of Philosophy text -> QA JSON -> finetuning LLM
+Current Project: Stanford Encyclopedia of Philosophy text -> QA JSON -> Opensource to Kaggle
 
 Current interests: ML in Spark, Scala
 

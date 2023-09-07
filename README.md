@@ -4,7 +4,7 @@ I'm a Digital Analyst by title, but my daily tasks touch most data stages:
 * Data Modeling
 * Engineering custom solutions for high priority adhoc requests
 * Using ML algos to generate reasonable KPI targets/comparison groups
-* Dahsboarding
+* Dashboarding
 * Exporting to excel - so satisfying \s
 * Explaining to clients that averaging a column containing percentages isn't usually the best move
 

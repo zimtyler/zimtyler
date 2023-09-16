@@ -1,12 +1,11 @@
 ## Hi. I'm Tyler.
 I'm a Digital Analyst by title, but my daily tasks touch most data stages:
-* Internal and External Data ETL,
+* Internal and External Data ETL
 * Data Modeling
 * Engineering custom solutions for high priority adhoc requests
 * Using ML algos to generate reasonable KPI targets/comparison groups
 * Dashboarding
-* Exporting to excel - so satisfying \s
-* Explaining to clients that averaging a column containing percentages isn't usually the best move
+* Exporting data to excel \s
 
 
 Day to Day : Python, DAX, Power Query, and SQL in the Microsoft Azure/Power BI ecosystem.

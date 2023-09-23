@@ -10,7 +10,7 @@ I'm a Digital Analyst by title, but my daily tasks touch most data stages:
 
 Day to Day : Python, DAX, Power Query, and SQL in the Microsoft Azure/Power BI ecosystem.
 
-Working familiarity with Linux OS, AWS tools (S3, Lambda, SageMaker), BigQuery, and Databricks.
+Working familiarity with Linux OS, AWS tools (S3, EC2), BigQuery, and Databricks.
 
 Current Project: Stanford Encyclopedia of Philosophy text -> QA JSON -> Opensource to Kaggle
 
